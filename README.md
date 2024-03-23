@@ -1,5 +1,4 @@
 # Learning-GitHub-Actions-for-DevOps-CI-CD
-Learning GitHub Actions for DevOps CI/CD, published by Packt
 https://learning.oreilly.com/course/learning-github-actions/9781837639137/
 
 Supplement Content:
